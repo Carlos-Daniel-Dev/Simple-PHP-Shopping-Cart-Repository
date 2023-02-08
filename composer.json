@@ -1,0 +1,15 @@
+{
+    "name": "users/sistema-carrinho-de-compra",
+    "authors": [
+        {
+            "name": "Carlos-Daniel-Dev",
+            "email": "carlos.daniel.brathon2@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
